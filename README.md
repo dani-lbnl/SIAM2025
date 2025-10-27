@@ -24,7 +24,7 @@ SIAM NCC Oct 2025
       Generative algorithms
       <li> Create new content
       <li> Utilize learned patterns
-      <li> Try ApexGenAI: <a href='https://github.com/lbl-camera/genAI'>[HERE]</a>
+      <li> Our paper: <a href='https://www.mdpi.com/2313-433X/11/8/252'>[HERE]</a>
       </td>
  </tr>
 </table>
